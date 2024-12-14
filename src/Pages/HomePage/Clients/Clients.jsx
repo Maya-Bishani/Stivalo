@@ -14,8 +14,8 @@ return<>
                         <div className="carousel-images">
                             <img className='company-img' src='./Images/techcompany.png' alt='logo' />
                             <img className='company-img' src='./Images/company.png' alt='logo' />
-                            <img className='company-img' src='./Stivalo/Images/techcompany.png' alt='logo' />
-                            <img className='company-img' src='./Stivalo/Images/company.png' alt='logo' />
+                            <img className='company-img' src='./Images/techcompany.png' alt='logo' />
+                            <img className='company-img' src='./Images/company.png' alt='logo' />
                         </div>
                     </Carousel.Item>
                     <Carousel.Item>
