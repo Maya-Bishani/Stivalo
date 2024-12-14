@@ -5,13 +5,12 @@ import App from './App.jsx'
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { BrowserRouter } from "react-router";
-ReactDOM.createRoot(root).render(
-  <BrowserRouter>
+
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <BrowserRouter basename='/Stivalo'>
     <App />
-  </BrowserRouter>
-);
-createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
+    </BrowserRouter>
+  </React.StrictMode>,
 )

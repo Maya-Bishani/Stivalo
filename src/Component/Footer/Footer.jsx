@@ -10,7 +10,7 @@ export default function Footer(){
     return<>
     <div className="Container-Footer">
         <div className="logo-footer">
-            <img className='logo' src='./Images/logo2.png'/>
+            <img className='logo' src='./Stivalo/Images/logo2.png'/>
         </div>
         <div className="Info"> 
          <h1 className='Company-Name'>STIVALO</h1> 

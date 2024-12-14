@@ -7,49 +7,49 @@ const newWords = ["We have a great team ! "]; // الكلمات التي نري�
 
 const cardDataTeam = [
   {
-    imgSrc: "./Images/manager.jpg",
+    imgSrc: "./Stivalo/Images/manager.jpg",
     title: 'Mohammad',
     title2: 'Manager',
     text: "Interior Design"
   },
   {
-    imgSrc: "./Images/backend.jpg",
+    imgSrc: "./Stivalo/Images/backend.jpg",
     title: "Hamza",
     title2: 'Back-End Developer',
     text: "IT Engineering"
   },
   {
-    imgSrc: "./Images/frontend.jpg",
+    imgSrc: "./Stivalo/Images/frontend.jpg",
     title: "Maya",
     title2: "Front-End Developer",
     text: "IT Engineering"
   },
   {
-    imgSrc: "./Images/flutter.jpg",
+    imgSrc: "./Stivalo/Images/flutter.jpg",
     title: 'Mohammad',
     title2: 'UI/UX',
     text: "Interior Design"
   },
   {
-    imgSrc: "./Images/backend.jpg",
+    imgSrc: "./Stivalo/Images/backend.jpg",
     title: 'Ahmad',
     title2: 'Flutter',
     text: "IT Engineering"
   },
   {
-    imgSrc: "./Images/hr2.jpg",
+    imgSrc: "./Stivalo/Images/hr2.jpg",
     title: 'Rama',
     title2: 'Full Stack',
     text: "IT Engineering"
   },
   {
-    imgSrc: "./Images/hr2.jpg",
+    imgSrc: "./Stivalo/Images/hr2.jpg",
     title: 'Reema',
     title2: 'HR',
     text: "IT Engineering"
   },
   {
-    imgSrc: "./Images/hr2.jpg",
+    imgSrc: "./Stivalo/Images/hr2.jpg",
     title: 'Aya',
     title2: 'UI/UX',
     text: "IT Engineering"

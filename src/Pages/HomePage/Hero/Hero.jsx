@@ -21,7 +21,7 @@ export default function Hero(){
            Partner with us to bring your vision to life and drive your business forward.</p>
        </div>
        <div className="MB-Hero-Section2">
-           <img className='MB-Hero-img img-fluid' src='./Images/hero.png'  alt='hero-photo'/>
+           <img className='MB-Hero-img img-fluid' src='./Stivalo/Images/hero.png'  alt='hero-photo'/>
        </div>
       
     </div>
