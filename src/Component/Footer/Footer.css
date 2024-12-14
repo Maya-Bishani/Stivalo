@@ -46,6 +46,8 @@ font-size: 2rem;
 @media(max-width:535px){
     .Container-Footer{
         gap: 30px;
+    
        
     }
+    
 }
