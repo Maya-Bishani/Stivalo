@@ -4,7 +4,7 @@ export default function Navbar2(){
     return<>
     <Navbar  expand="lg" >
            
-            <img className='Logo-img' src='./Images/logo2.png' alt='photo'/>
+            <img className='Logo-img' src='./Stivalo/Images/logo2.png' alt='photo'/>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="ml-auto">
